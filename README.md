@@ -1,3 +1,3 @@
-## Welcome to my Github page!
+## Tervetuloa githubiini!
 
-Here you'll be able to find my most recent and relevant work :) 
+Täältä löydät relevanteimmat työni :) 
